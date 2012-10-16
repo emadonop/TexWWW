@@ -1,0 +1,128 @@
+#europass:checked~#About>h2{
+display:none;}
+
+
+
+  
+#europass:checked~#About>li{ 
+ 
+ display:none;
+}
+
+ 
+#europass:checked~#ksenes_glwsses>h2{
+ display:none;
+}
+ 
+ 
+ 
+#europass:checked~#ksenes_glwsses>li{
+
+ display:none;
+ 
+ }
+ 
+ 
+#europass:checked~#education>h2{
+display:none;
+}
+ 
+ 
+ 
+#europass:checked~#education>li{
+ 
+ display:none;
+ 
+} 
+ 
+#europass:checked~#Platforms>h2{
+ display:none;
+}
+
+#europass:checked~#Platforms>li{
+
+ display:none;
+ 
+} 
+
+#europass:checked~#Hobbies>h2{
+ display:none;
+}
+
+#europass:checked~#Hobbies>li{
+
+ 
+ display:none;
+ 
+} 
+ 
+ #europass:checked~#stoixeia_europass{
+  border-right-style:solid;
+  width:300px;
+   border-top-style:solid;
+  }
+ 
+ 
+ #europass:checked~#background> img{
+    
+    display:none;
+ }
+ 
+#europass:checked~#stoixeia_europass>li{
+    border-right-style:solid;
+  list-style-type:none;
+width:300px;
+ 
+}
+
+
+#europass:checked~#stoixeia_europass>ul{
+   border-right-style:solid;
+  list-style-type:none;
+ 
+}
+
+
+
+  #europass:checked~#apanthseis_europass>li{
+   position:relative;
+
+  right:-420px;
+ top:-620;
+list-style-type:none;
+  
+}
+
+#europass:checked~#apanthseis_europass>ul{
+
+ position:relative;
+ top:-560;
+  right:-380px;
+
+list-style-type:none;
+  
+}
+
+
+ #europass:checked~#photo>img{ 
+display:none;
+ }
+ 
+ 
+  #europass:checked~#europass_photo>img{ 
+ position:relative;
+ top:50;
+ right:160px;
+ width:120px;
+ height:120px;
+ }
+ 
+ #europass:checked~#apanthseis_europass >li>table{
+
+ position:relative;
+ top:52;
+  right:80px;
+
+list-style-type:none;
+  
+}

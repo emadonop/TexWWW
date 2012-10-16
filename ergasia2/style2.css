@@ -1,0 +1,141 @@
+
+
+
+#choose {
+  float:left;
+  color: red;
+  position: relative;
+  top:-25px;
+}
+#choose~li{
+ 
+ right:-26px;
+ 
+ position:relative;
+ top:23px;
+ float:down;
+ 
+ 
+ }
+
+ #funny:checked~#photo>img{ 
+right:-120px;
+ margin-left:20px;
+ width:150px;
+ height:150px;
+ }
+ 
+ 
+ 
+
+#funny:checked~#About>h2{
+
+left:120px;
+position:relative;
+top:50px;
+ 
+  color: red;
+}
+
+  
+#funny:checked~#About>li{ 
+ right:-280px;
+ position:relative;
+ float:down;
+}
+
+ 
+#funny:checked~#ksenes_glwsses>h2{
+ left:120px;
+position:relative;
+top:50px;
+ 
+  color: red;
+}
+ 
+ 
+ 
+#funny:checked~#ksenes_glwsses>li{
+ 
+ right:-280px;
+ position:relative;
+ float:down;
+ 
+ }
+ 
+ 
+#funny:checked~#education>h2{
+ left:120px;
+position:relative;
+top:50px;
+ 
+  color: red;
+}
+ 
+ 
+ 
+#funny:checked~#education>li{
+ 
+ right:-280px;
+ position:relative;
+ float:down;
+ 
+} 
+ 
+#funny:checked~#Platforms>h2{
+ left:120px;
+position:relative;
+top:50px;
+ 
+  color: red;
+}
+
+#funny:checked~#Platforms>li{
+
+ 
+ right:-280px;
+ position:relative;
+ float:down;
+ 
+} 
+
+#funny:checked~#Hobbies>h2{
+ left:120px;
+position:relative;
+top:50px;
+ 
+  color: red;
+}
+
+#funny:checked~#Hobbies>li{
+
+ 
+ right:-280px;
+ position:relative;
+ float:down;
+ 
+} 
+ 
+ 
+ #funny:checked~#background> img{
+width:1000;
+height:500;
+   }
+    
+ #funny:checked~#stoixeia_europass>li{
+ display:none;
+ }
+  
+#funny:checked~#apanthseis_europass>li{
+ display:none;
+ }  
+ 
+#funny:checked~#apanthseis_europass>ul{
+ display:none;
+ }   
+ 
+ 
+ 
+#funny:checked~#europass_photo>img{ 
+display:none;
+ }
